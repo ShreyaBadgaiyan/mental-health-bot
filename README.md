@@ -7,3 +7,8 @@ conda create -n medicalbot python=3.8 -y
 conda activate medicalbot
 
 '''
+
+'''bash
+pip install -r requirements.txt
+
+'''
